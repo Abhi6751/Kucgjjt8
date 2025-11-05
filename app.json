@@ -12,17 +12,17 @@
   "stack": "container",
   "env": {
     "API_ID": {
-      "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+      "description": "22676884",
       "value": "22746239",
       "required": true
     },
     "API_HASH": {
-      "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+      "description": "8cad8652f48b71800eb37c72ab7d51a4",
       "value": "a98ec8cfd8572a3a7c936cf828fe6215",
       "required": true
     },
-    "BOT_TOKEN": {
-      "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+    "BOT_TOKEN": {7729579548:AAEX3kpiR5KT5QYkqhDspZgHg0tKnBZ0p24
+      "description": "𝑬𝒏𝒕𝒆",
       "value": "",
       "required": true
     },
@@ -33,7 +33,7 @@
     },
     "CREDIT": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-      "value": "〱ＵＧ▕",
+      "value": "〱ＵＧ▕"ABHI,
       "required": true
     }
   },
